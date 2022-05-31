@@ -1,0 +1,125 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.resume {
+  position: absolute;
+  color: #FF4949;
+  text-decoration: none;
+  right: 3rem;
+  font-size: 1.5rem;
+}
+
+.resume:hover {
+  color: #FF8C8C;
+}
+
+.home {
+  position: absolute;
+  color: #FF4949;
+  right: 10rem;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.home:hover {
+  color: #FF8C8C;
+}
+
+hr {
+  border: dotted #CDB699 6px;
+  border-bottom: none;
+  width: 4%;
+}
+
+.topdiv {
+  background-color: #FAD4D4;
+  margin: 0;
+  padding-top: 3rem;
+  padding-bottom: 20rem;
+  text-align: center;
+  position: relative;
+}
+
+.icon {
+  position: absolute;
+  width: 15%;
+  left: 10%;
+}
+
+.name {
+  margin-bottom: 0;
+  padding-top: 20rem;
+  font-size: 80px;
+  text-align: center;
+  color: #FF4949;
+  font-family: 'Sacramento', cursive;
+}
+
+.sec {
+  margin-top: 0;
+  font-size: 30px;
+  color: #FF4949;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.skill_1 {
+  text-align: center;
+  position: relative;
+}
+
+.web {
+  position: absolute;
+  right: 75rem;
+  width: 9%;
+  float: left;
+}
+
+.skill_2 {
+  text-align: center;
+  position: relative;
+}
+
+.data {
+  position: absolute;
+  right: 75rem;
+  width: 9%;
+  float: left;
+}
+
+.btn {
+  background: #FF4949;
+  background-image: -webkit-linear-gradient(top, #FF4949, #FF8C8C);
+  background-image: -moz-linear-gradient(top, #FF4949, #FF8C8C);
+  background-image: -ms-linear-gradient(top, #FF4949, #FF8C8C);
+  background-image: -o-linear-gradient(top, #FF4949, #FF8C8C);
+  background-image: linear-gradient(to bottom, #FF4949, #FF8C8C);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #EF9F9F;
+  background-image: -webkit-linear-gradient(top, #EF9F9F, #FF8C8C);
+  background-image: -moz-linear-gradient(top, #EF9F9F, #FF8C8C);
+  background-image: -ms-linear-gradient(top, #EF9F9F, #FF8C8C);
+  background-image: -o-linear-gradient(top, #EF9F9F, #FF8C8C);
+  background-image: linear-gradient(to bottom, #EF9F9F, #FF8C8C);
+  text-decoration: none;
+}
+
+.foot{
+  color: #FF4949;
+  text-decoration: none;
+}
+
+.foot:hover{
+  color: #FF8C8C;
+}
